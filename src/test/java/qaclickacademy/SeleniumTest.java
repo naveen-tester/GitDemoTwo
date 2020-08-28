@@ -15,4 +15,8 @@ public class SeleniumTest {
 	public void git3() {
 		System.out.println("Functinal testing");
 	}
+	@Test
+	public void git4() {
+		System.out.println("Functinal testing");
+	}
 }
