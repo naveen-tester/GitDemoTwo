@@ -11,5 +11,13 @@ public class RestAPITest {
 	public void Salesforce() {
 		System.out.println("Salesforce CRM");
 	}
+	@Test
+	public void git() {
+		System.out.println("Salesforce CRM");
+	}
+	@Test
+	public void git2() {
+		System.out.println("Salesforce CRM");
+	}
 
 }
